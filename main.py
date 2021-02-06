@@ -56,7 +56,7 @@ if __name__ == '__main__':
         with col1:
             st.image(image, caption='Original Image', use_column_width=True)
     else:
-        DEFAULT_IMG = 'resources/car.jpg'
+        DEFAULT_IMG = './car.jpg'
         image = Image.open(DEFAULT_IMG)
         with col1:
             st.image(image, caption='Original Image', use_column_width=True)
