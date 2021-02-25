@@ -1,6 +1,4 @@
 streamlit==0.74.1
-Pillow @ file:///tmp/build/80754af9/pillow_1594307295532/work
-numpy==1.19.2
-scikit-image==0.16.2
-scikit-learn @ file:///tmp/build/80754af9/scikit-learn_1592502866053/work
-scipy @ file:///tmp/build/80754af9/scipy_1592930511789/work
+numpy==1.18.5
+Pillow==8.1.0
+scikit_learn==0.24.1
